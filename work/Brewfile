@@ -6,7 +6,7 @@ tap "homebrew/core"
 
 brew "starship"
 
-#Paid Applications
+# Paid Applications
 cask "1password"
 cask "alfred"
 cask "bartender"
