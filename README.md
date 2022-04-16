@@ -11,6 +11,7 @@ Below is a list of applications that need to be installed manually:
 - Raw Right Away
 
 **Direct Downloads:**
+- [Balena Etcher](https://www.balena.io/etcher/)
 - [Capture One](https://www.captureone.com/en)
 - [Display Link Adapter](https://www.synaptics.com/products/displaylink-graphics/downloads/macos)
 - [Last.FM Scrobbler](https://www.last.fm/about/trackmymusic)
