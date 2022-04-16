@@ -11,6 +11,7 @@ Below is a list of applications that need to be installed manually:
 - Raw Right Away
 
 **Direct Downloads:**
+- [Ableton Live](https://www.ableton.com/en/products/live-lite/)
 - [Balena Etcher](https://www.balena.io/etcher/)
 - [Capture One](https://www.captureone.com/en)
 - [Display Link Adapter](https://www.synaptics.com/products/displaylink-graphics/downloads/macos)
