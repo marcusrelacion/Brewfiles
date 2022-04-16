@@ -1,6 +1,7 @@
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
+brew "starship"
 cask "1password"
 cask "affinity-designer"
 cask "affinity-photo"
