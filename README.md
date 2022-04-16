@@ -15,6 +15,7 @@ Below is a list of applications that need to be installed manually:
 - [Capture One](https://www.captureone.com/en)
 - [Display Link Adapter](https://www.synaptics.com/products/displaylink-graphics/downloads/macos)
 - [Last.FM Scrobbler](https://www.last.fm/about/trackmymusic)
+- [Jetbrains Mono](https://www.jetbrains.com/lp/mono/)
 - [Node.js](https://nodejs.org/en/)
 - [Photo Mechanic](https://home.camerabits.com/)
 - [Starship: Cross-Shell Prompt](https://starship.rs/)
