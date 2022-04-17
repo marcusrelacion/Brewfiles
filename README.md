@@ -18,3 +18,10 @@ Below is a list of applications that need to be installed manually:
 - [Jetbrains Mono](https://www.jetbrains.com/lp/mono/)
 - [Node.js](https://nodejs.org/en/)
 - [Photo Mechanic](https://home.camerabits.com/) (Purchased Lifetime License)
+- [Pixelsnap 2]()
+- [Mouseless]()
+- [Keystroke Pro]()
+- SteelSeries GG
+- Theine
+- Things
+
