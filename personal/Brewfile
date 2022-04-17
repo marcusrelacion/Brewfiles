@@ -23,6 +23,7 @@ cask "sizzy"
 # Free Applications
 cask "alfred"
 cask "airtable"
+cask "amethyst"
 cask "authy"
 cask "bitwarden"
 cask "discord"
