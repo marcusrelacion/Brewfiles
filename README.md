@@ -1,6 +1,13 @@
 # Brewfiles
 My personal MacOS Brewfiles for quickly performing fresh-installs or configuring new personal and work machines
 
+## Instructions
+Install [Homebrew](https://brew.sh/):
+`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+
+Create Brewfile:
+`brew bundle dump`
+
 Below is a list of applications that need to be installed manually:
 
 **Free Common:**
