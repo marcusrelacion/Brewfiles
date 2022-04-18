@@ -1,5 +1,5 @@
 # Brewfiles
-This repository contains both my personal and work machine brewfiles for easier setups when fresh installing MacOS or setting up a brand new machine.
+My personal MacOS Brewfiles for quickly performing fresh-installs or configuring new personal and work machines
 
 Below is a list of applications that need to be installed manually:
 
