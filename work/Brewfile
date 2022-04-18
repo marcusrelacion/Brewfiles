@@ -20,6 +20,7 @@ cask "one-switch"
 cask "sizzy"
 
 # Free Applications
+cask "amethyst"
 cask "figma"
 cask "firefox"
 cask "github"
