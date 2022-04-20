@@ -22,6 +22,7 @@ Below is a list of applications that need to be installed manually:
 - [Last.FM Scrobbler](https://www.last.fm/about/trackmymusic)
 - [SteelSeries GG](https://steelseries.com/gg)
 - [Streamdeck](https://edge.elgato.com/egc/macos/sd/Stream_Deck_5.2.1.15025.pkg?_ga=2.240002433.388066824.1650310082-2065781075.1650310082)
+- [Wally](https://www.zsa.io/wally/)
 
 **Paid Personal**
 - [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html?sdid=KKQWX&mv=search&ef_id=Cj0KCQjwmPSSBhCNARIsAH3cYgYM68JbDVmEBI7I3hUDFeYylxsWEDAxYkbhSwOi6ax6DKw-Ujh7i6QaAjHxEALw_wcB:G:s&s_kwcid=AL!3085!3!449365418356!e!!g!!adobe%20creative%20cloud!151098760!109927013692&gclid=Cj0KCQjwmPSSBhCNARIsAH3cYgYM68JbDVmEBI7I3hUDFeYylxsWEDAxYkbhSwOi6ax6DKw-Ujh7i6QaAjHxEALw_wcB)
