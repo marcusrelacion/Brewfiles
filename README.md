@@ -20,6 +20,7 @@ Below is a list of applications that need to be installed manually:
 - [Ableton Live](https://www.ableton.com/en/products/live-lite/)
 - [Display Link Adapter](https://www.synaptics.com/products/displaylink-graphics/downloads/macos) 
 - [Last.FM Scrobbler](https://www.last.fm/about/trackmymusic)
+- [Linear](https://linear.app/download)
 - [SteelSeries GG](https://steelseries.com/gg)
 - [Streamdeck](https://edge.elgato.com/egc/macos/sd/Stream_Deck_5.2.1.15025.pkg?_ga=2.240002433.388066824.1650310082-2065781075.1650310082)
 - [Wally](https://www.zsa.io/wally/)
