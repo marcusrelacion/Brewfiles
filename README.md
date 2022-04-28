@@ -4,6 +4,7 @@ My personal MacOS Brewfiles for quickly performing fresh-installs or configuring
 ## Instructions
 
 Install [Homebrew](https://brew.sh/):
+
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
 Create Brewfile:
