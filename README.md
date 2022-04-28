@@ -29,6 +29,7 @@ Below is a list of applications that need to be installed manually:
 - [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html?sdid=KKQWX&mv=search&ef_id=Cj0KCQjwmPSSBhCNARIsAH3cYgYM68JbDVmEBI7I3hUDFeYylxsWEDAxYkbhSwOi6ax6DKw-Ujh7i6QaAjHxEALw_wcB:G:s&s_kwcid=AL!3085!3!449365418356!e!!g!!adobe%20creative%20cloud!151098760!109927013692&gclid=Cj0KCQjwmPSSBhCNARIsAH3cYgYM68JbDVmEBI7I3hUDFeYylxsWEDAxYkbhSwOi6ax6DKw-Ujh7i6QaAjHxEALw_wcB)
 - [Capture One](https://www.captureone.com/en)
 - [Darkroom](https://darkroom.co/)
+- [iA Writer](https://ia.net/writer)
 - [Pixelsnap 2](https://getpixelsnap.com/)
 - [Mouseless](https://www.mouseless.app/)
 - [Keystroke Pro](https://apps.apple.com/us/app/keystroke-pro/id1572206224?mt=12)
