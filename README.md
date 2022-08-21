@@ -12,6 +12,10 @@ Create Brewfile:
 
 `brew bundle dump`
 
+Run Brewfile:
+
+`brew bundle`
+
 Below is a list of applications that need to be installed manually:
 
 **Open Source:**
