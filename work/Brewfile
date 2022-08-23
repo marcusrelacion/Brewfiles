@@ -6,6 +6,7 @@ tap "homebrew/core"
 
 brew "gitmoji"
 brew "starship"
+brew "gnupg"
 
 # Paid Applications
 cask "1password"
