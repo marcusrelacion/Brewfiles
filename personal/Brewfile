@@ -7,7 +7,6 @@ tap "homebrew/core"
 # System Applications
 brew "gitmoji"
 brew "starship"
-brew "gnupg"
 
 # Paid Applications
 cask "1password"
@@ -18,8 +17,6 @@ cask "backblaze"
 cask "bartender"
 cask "cleanmymac"
 cask "cleanshot"
-cask "hazel"
-cask "one-switch"
 
 # Free Applications
 cask "authy"
@@ -33,6 +30,7 @@ cask "imageoptim"
 cask "notion"
 cask "obs"
 cask "obsidian"
+cask "raycast"
 cask "sf-symbols"
 cask "signal"
 cask "slack"
